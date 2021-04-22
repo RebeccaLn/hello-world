@@ -1,4 +1,15 @@
-# hello-world
-An early repository.
+<html>
+  <head>
+    <title>Simple Page</title>
+    <style>
+      body {
+      background-color: black;
+      color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+  </body>
+</html>
 
-Hello! I love writing, art, and visual design. I've learned to write HTML and CSS code.
