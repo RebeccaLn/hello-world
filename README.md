@@ -2,12 +2,7 @@
 <html>
   <head>
     <title>Simple Page</title>
-    <style type="text/css">
-      body {
-      background-color: black;
-      color: white;
-      }
-    </style>
+   <link rel="stylesheet" type="text/css" href="stylehelloworld.css">
   </head>
   <body>
     <h1>Hello, World!</h1>
