@@ -1,7 +1,8 @@
+!DOCTYPEhtml
 <html>
   <head>
     <title>Simple Page</title>
-    <style>
+    <style type="text/css">
       body {
       background-color: black;
       color: white;
